@@ -1,5 +1,5 @@
-# All about me
+# All about github
 
-My name is Juan, Juan Knill
+Here is the whole truth
 
-## not sure what this is 
+## this is a subtitle
